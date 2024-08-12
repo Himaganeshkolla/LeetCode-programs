@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Himaganeshkolla/LeetCode-programs/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Himaganeshkolla/LeetCode-programs/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Himaganeshkolla/LeetCode-programs/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Himaganeshkolla/LeetCode-programs/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Himaganeshkolla/LeetCode-programs/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Himaganeshkolla/LeetCode-programs/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/Himaganeshkolla/LeetCode-programs/tree/master/1894-merge-strings-alternately) |
@@ -54,4 +56,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Himaganeshkolla/LeetCode-programs/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Himaganeshkolla/LeetCode-programs/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
