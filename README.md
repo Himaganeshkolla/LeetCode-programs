@@ -50,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Himaganeshkolla/LeetCode-programs/tree/master/0605-can-place-flowers) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Himaganeshkolla/LeetCode-programs/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
