@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Himaganeshkolla/LeetCode-programs/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Himaganeshkolla/LeetCode-programs/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Himaganeshkolla/LeetCode-programs/tree/master/0088-merge-sorted-array) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Himaganeshkolla/LeetCode-programs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Himaganeshkolla/LeetCode-programs/tree/master/0169-majority-element) |
 | [0605-can-place-flowers](https://github.com/Himaganeshkolla/LeetCode-programs/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Himaganeshkolla/LeetCode-programs/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -51,10 +52,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Himaganeshkolla/LeetCode-programs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0605-can-place-flowers](https://github.com/Himaganeshkolla/LeetCode-programs/tree/master/0605-can-place-flowers) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Himaganeshkolla/LeetCode-programs/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Himaganeshkolla/LeetCode-programs/tree/master/0013-roman-to-integer) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Himaganeshkolla/LeetCode-programs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
