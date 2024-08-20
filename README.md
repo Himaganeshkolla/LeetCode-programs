@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Himaganeshkolla/LeetCode-programs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Himaganeshkolla/LeetCode-programs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Himaganeshkolla/LeetCode-programs/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Himaganeshkolla/LeetCode-programs/tree/master/0189-rotate-array) |
 | [0605-can-place-flowers](https://github.com/Himaganeshkolla/LeetCode-programs/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Himaganeshkolla/LeetCode-programs/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Himaganeshkolla/LeetCode-programs/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Himaganeshkolla/LeetCode-programs/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Himaganeshkolla/LeetCode-programs/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Himaganeshkolla/LeetCode-programs/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Himaganeshkolla/LeetCode-programs/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/Himaganeshkolla/LeetCode-programs/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Himaganeshkolla/LeetCode-programs/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Himaganeshkolla/LeetCode-programs/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/Himaganeshkolla/LeetCode-programs/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
